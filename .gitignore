@@ -22,8 +22,8 @@ wheels/
 
 # Virtual Environment
 venv/
-ENV/
 env/
+ENV/
 
 # IDE
 .idea/
@@ -31,10 +31,10 @@ env/
 *.swp
 *.swo
 
-# Game specific
-game_stats.json
-*.wav
-
-# OS specific
+# OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Project specific
+game_stats.json
+*.wav 
